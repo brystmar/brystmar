@@ -1,8 +1,8 @@
 Hi, I’m Thomas 👋
 
-I love exploring the intersection of food and tech!  In case you can't tell, I love food, and I want others to as well.
+I enjoy exploring the intersection of food and tech!  I love food, and I want to others to as well.
 
-Many folks mistakenly think high-quality recipes require complexity, fancy ingredents, and/or crazy kitchen gadgets.  In fact, the easiest way to level-up your home cooking is by simply switching your everyday recipe resource to a site like [Serious Eats](https://seriouseats.com), or [America's Test Kitchen](https://americastestkitchen.com).  It's surprisingly easy to cook (and bake) food that's more delicious than anything on the menu of many local restaurants.
+Many folks mistakenly think high-quality recipes require complexity, fancy ingredients, and/or crazy kitchen gadgets.  In fact, the easiest way to level-up your home cooking is by simply switching your everyday recipe source to a site like [Serious Eats](https://seriouseats.com), or [America's Test Kitchen](https://americastestkitchen.com).  It's surprisingly easy to cook (and bake) food that's more delicious than anything on the menu of popular restaurants.
 
 Side note: My wife and I use the [Paprika](https://paprikaapp.com) recipe management app religiously and are big fans ❤ 
 
